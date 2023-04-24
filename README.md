@@ -13,3 +13,5 @@ The instructions for this mini project are divided into the following subsection
 * A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
 * A "category" column that contains only the category titles
 * The following image shows this category DataFrame:
+Inline-style: 
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"](https://static.bc-edx.com/data/dl-1-2/m13/lms/img/category_DataFrame.png)
