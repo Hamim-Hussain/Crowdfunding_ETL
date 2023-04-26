@@ -18,7 +18,7 @@ Description: The proposal includes specifying the type of database that will be 
 The proposal includes specifying the type of database that will be used for the final production environment to store and manage the data, as well as the tools and packages used for data cleaning and processing. A relational (SQL) database will be used for the final production environment. Data cleaning and processing will be performed using Jupyter Notebook with the following packages: pandas, numpy, and datetime. The cleaned data will be loaded into the relational database using pgAdmin for storage and management. Additionally, an Entity Relationship Diagram (ERD) of the tables will be created using a tool like https://www.quickdatabasediagrams.com/ to provide a visual representation of the database structure.
 
 <strong>ERD</strong><br>
-![crowdfunding_ERD]([https://user-images.githubusercontent.com/121570218/234084392-2ce36440-ca9e-44f7-a748-0368ac8efc44.png](https://github.com/Hamim-Hussain/Crowdfunding_ETL/blob/main/ERD.PNG))
+![ERD](https://raw.githubusercontent.com/Hamim-Hussain/Crowdfunding_ETL/main/ERD.PNG))
 
 
 ## Findings
