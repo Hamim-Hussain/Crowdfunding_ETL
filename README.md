@@ -15,7 +15,7 @@ Description: The proposal includes specifying the type of database that will be 
 * Packages Used: pandas, numpy, datetime
 * Data Loading: pgAdmin
 
-The proposal outlines using a relational (SQL) database for the final production environment. Data cleaning and processing will be performed using Jupyter Notebook with the following packages: pandas, numpy, and datetime. The cleaned data will be loaded into the relational database using pgAdmin for storage and management.
+The proposal includes specifying the type of database that will be used for the final production environment to store and manage the data, as well as the tools and packages used for data cleaning and processing. A relational (SQL) database will be used for the final production environment. Data cleaning and processing will be performed using Jupyter Notebook with the following packages: pandas, numpy, and datetime. The cleaned data will be loaded into the relational database using pgAdmin for storage and management. Additionally, an Entity Relationship Diagram (ERD) of the tables will be created using a tool like https://www.quickdatabasediagrams.com/ to provide a visual representation of the database structure.
 
 ## Findings
 
@@ -27,6 +27,8 @@ The proposal outlines using a relational (SQL) database for the final production
 ## Conclusion
 
 Overall, the data suggests that "theater", "film & video", and "music" are the most successful categories in terms of crowdfunding projects, while "journalism" and "games" have relatively low success rates. Similarly, "plays", "photography books", "web", "food trucks", and "wearables" subcategories have relatively high success rates, while "audio", "science fiction", and "world music" have lower success rates. The United States, Canada, and the United Kingdom have the highest total sum of pledged amounts, indicating higher crowdfunding support in these countries compared to others.
+
+# Project Outline
 
 ## Instructions
 The instructions for this mini project are divided into the following subsections:
