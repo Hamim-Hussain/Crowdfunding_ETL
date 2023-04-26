@@ -1,10 +1,14 @@
 # Crowdfunding_ETL
 
+## Introduction
+
+ETL (Extract, Transform & Load) is a foundational skill. In the real world, data is everywhere and often scattered across multiple sources, and it can be messy. Understanding how to extract, load, and transform data is a critical concept as it enables you to have clean, up-to-date, and accurate data. It empowers you to become an expert in your data by allowing you to manipulate data types, fix formatting issues, and create additional columns to enrich and gain meaningful insights from your data. In this project, I will be using the data below to perform extraction, transformation, and loading of the data.
+
 ## Sources of data
 
 Within Resources Folder:
 *  contacts.xlsx
-*  contacts.xlsx
+*  crowdfunding.xlsx
 
 ## Database Type for Final Production Environment
 
