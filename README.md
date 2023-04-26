@@ -1,5 +1,33 @@
 # Crowdfunding_ETL
 
+## Sources of data
+
+Within Resources Folder:
+*  contacts.xlsx
+*  contacts.xlsx
+
+## Database Type for Final Production Environment
+
+Description: The proposal includes specifying the type of database that will be used for the final production environment to store and manage the data.
+
+* Database Type: Relational (SQL)
+* Data Cleaning and Processing: Jupyter Notebook
+* Packages Used: pandas, numpy, datetime
+* Data Loading: pgAdmin
+
+The proposal outlines using a relational (SQL) database for the final production environment. Data cleaning and processing will be performed using Jupyter Notebook with the following packages: pandas, numpy, and datetime. The cleaned data will be loaded into the relational database using pgAdmin for storage and management.
+
+## Findings
+
+1. The "theater" category had the highest success rate, "Journalism" and "games" categories had relatively low success rates.
+2. The "plays" subcategory had the highest number of successful projects, with 187 out of 319 projects being successful, indicating a relatively high success rate.
+3. "Theater" category had the highest sum of pledged amounts, with a total of $15,763,227, followed by "film & video", "music", "publishing", and "technology" categories, indicating higher crowdfunding support in these categories compared to others such as "journalism" and "games".
+4. The United States (US) had the highest sum of pledged amounts, with a total of $31,409,336, followed by Canada (CA) with $2,812,788, and the United Kingdom (GB) with $2,192,705, indicating significant crowdfunding activity in these countries.
+
+## Conclusion
+
+Overall, the data suggests that "theater", "film & video", and "music" are the most successful categories in terms of crowdfunding projects, while "journalism" and "games" have relatively low success rates. Similarly, "plays", "photography books", "web", "food trucks", and "wearables" subcategories have relatively high success rates, while "audio", "science fiction", and "world music" have lower success rates. The United States, Canada, and the United Kingdom have the highest total sum of pledged amounts, indicating higher crowdfunding support in these countries compared to others.
+
 ## Instructions
 The instructions for this mini project are divided into the following subsections:
 
